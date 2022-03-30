@@ -4,6 +4,7 @@ description: This resource provides information on group dynamics and creating a
   map.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-391-concept-centered-teaching-spring-2006/25007bc28f24a6fed155f69be4e477e9_conceptmap.pdf
 file_type: application/pdf
+parent_uid: f7d41817-0ad8-9753-43cc-8d381fc556e0
 resourcetype: Document
 title: conceptmap.pdf
 uid: 25007bc2-8f24-a6fe-d155-f69be4e477e9
